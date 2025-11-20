@@ -95,9 +95,5 @@
     * Estado inicial do jogo
     * Adição de fleet/jogadores (quando aplicável)
 
-* [unknown] C13 TasksTest
-    * Classe testada: `Tasks`
-    * Criação e execução de tarefas
-    * Métodos públicos relevantes (ex.: run, reset, etc.)
 
 
