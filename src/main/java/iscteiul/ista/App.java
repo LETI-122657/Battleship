@@ -1,8 +1,5 @@
 package iscteiul.ista;
 
-import iscteiul.ista.battleship.Fleet;
-import iscteiul.ista.battleship.Tasks;
-
 /**
  * @author britoeabreu
  * @author adrianolopes
@@ -16,7 +13,7 @@ public class App
         System.out.printf("\n***  Battleship Game ***\n");
 
         // Tasks.taskA();
-        Tasks.taskB();
+       //Tasks.taskB();
         // Tasks.taskC();
         // Tasks.taskD();
     }
