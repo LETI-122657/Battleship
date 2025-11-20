@@ -1,9 +1,7 @@
 /**
  *
  */
-package iscteiul.ista;
-
-import iscteiul.ista.battleship.*;
+package iscteiul.ista.battleship;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -29,6 +27,8 @@ public class Game implements IGame {
         shots = new ArrayList<>();
         countInvalidShots = 0;
         countRepeatedShots = 0;
+        countHits = 0;
+        countSinks = 0;
         this.fleet = fleet;
     }
 
